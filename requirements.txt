@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy
+feedparser
+apscheduler
+beautifulsoup4
+requests
